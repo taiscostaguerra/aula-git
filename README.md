@@ -16,3 +16,4 @@ Repositório feito para a aula de Github para iniciantes da Rockeseat
 - 'git push' //envia alterações locais para o repositório remoto
 -  'git deleted branch -D "branch"' //exclui um branch
 - 'git ls -al'
+- 'git checkout -b "branch" //cria uma branch e em seguida entra nela
